@@ -1,0 +1,21 @@
+.rd3t-node text {
+    font-weight: normal !important;
+    fill: black !important;
+  }
+  
+  .custom-node text {
+    font-weight: normal !important;
+    fill: black !important;
+  }
+  
+  .custom-node circle {
+    fill: white !important;
+    stroke: black !important;
+    stroke-width: 1 !important;
+  }
+  
+  .custom-node .add-child {
+    fill: blue !important;
+    cursor: pointer !important;
+  }
+  
